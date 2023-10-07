@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+spacy = "*"
+gensim = "*"
+ipython = "*"
+pandas = "*"
+pymorphy2 = "*"
+sklearn = "*"
+nltk = "*"
+pylance = "*"
+scikit-learn = "*"
+pymorphy2-dicts-uk = "*"
+pymorphy3-dicts-uk = "*"
+pymorphy3 = "*"
+matplotlib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
+python_full_version = "3.11.5"
